@@ -2,7 +2,7 @@
   <style>
     .glow {
       font-family: 'Fira Code', monospace;
-      font-size: 24px;
+      font-size: 32px;
       fill: #00FFB0;
       text-shadow:
         0 0 5px #00FFB0,
