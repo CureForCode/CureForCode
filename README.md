@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-1d44-61f7-bbe9-0304974ebb39/raw?se=2025-04-20T13%3A22%3A22Z&sp=r&sv=2024-08-04&sr=b&scid=02752fb4-95d7-5d3f-b439-f0fe9d8f9741&skoid=06d77cea-897f-49c6-9d78-20f6510f72af&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-20T07%3A17%3A53Z&ske=2025-04-21T07%3A17%3A53Z&sks=b&skv=2024-08-04&sig=BLoOzhf7QDCOVbO2LN86TLj6o1rCs9RxnEPjjkn%2BQ6o%3D"  />
+  <img height="500" src="https://github.com/CureForCode/CureForCode/blob/main/5.png?raw=true"  />
 </div>
 
 ###
