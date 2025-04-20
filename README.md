@@ -14,10 +14,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CureForCode.CureForCode" alt="Visitor Badge" />
-</div>
-
 ---
 
 <h1 align="center">Low-Level Bugs, High-Level Cures</h1>
