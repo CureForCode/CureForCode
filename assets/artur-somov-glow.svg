@@ -1,8 +1,8 @@
-<svg width="450" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
   <style>
     .glow {
       font-family: 'Fira Code', monospace;
-      font-size: 32px;
+      font-size: 48px;
       fill: #00FFB0;
       text-shadow:
         0 0 5px #00FFB0,
