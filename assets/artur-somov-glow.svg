@@ -10,6 +10,6 @@
         0 0 20px #00FFB0;
     }
   </style>
-  <rect width="100%" height="100%" fill="#0B0B0B"/>
+  <rect width="100%" height="100%" fill="transparent"/>
   <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" class="glow">Artur Somov</text>
 </svg>
