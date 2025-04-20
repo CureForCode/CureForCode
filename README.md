@@ -28,15 +28,15 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h2 align="center">👩‍💻  About Me</h2>
 
 ###
 
-<p align="center">👋 Hey there! Here is Artur Somov,<br><br>🎓 A linguist-turned-developer  <br> 📚 Currently learning HTML, CSS and JavaScript as a part of my Full-Stack Software Developer course of AIT TR Berlin programming school<br>💬 Fluent in human and (hopefully in near future) programming languages<br>🎧 Coding to the sounds of Mark Sandman and low rock vibes<br>⚡In my free time I am playing music instruments, reading books, translate a lot and taking a part in localization jams<br><br>🎸 Inspiration:<br>“Cure for pain? No. Cure for code? Maybe.”<br>I believe code, like music, is a language — and I’m here to learn to speak it fluently.</p>
+<p align="center">👋 Hey there! Here is <span style="color:#00FFB0;">Artur Somov</span>,<br><br><br>🎓 A linguist-turned-developer<br>  <br> 📚 Currently learning HTML, CSS and JavaScript as a part of my Full-Stack Software Developer course of AIT TR Berlin programming school<br><br>💬 Fluent in human and (hopefully in near future) programming languages<br><br>🎧 Coding to the sounds of Mark Sandman and low rock vibes<br><br>⚡In my free time I am playing music instruments, reading books, translate a lot and taking a part in localization jams<br><br><br>🎸 Inspiration:<br><br>“Cure for pain? No. Cure for code? Maybe.”<br><br>I believe code, like music, is a language — and I’m here to learn to speak it fluently.</p>
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h2 align="center">🔥 My Stats :</h2>
 
 ###
 
