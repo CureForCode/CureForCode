@@ -24,10 +24,11 @@
 <div align="center"> <img src="https://github.com/CureForCode/CureForCode/blob/main/assets/artur-somov-glow.svg?raw=true" alt="Artur Somov neon" />
 </div> 
 <p align="center">a linguist-turned-developer with a passion for coding.</p>
-<p align="center">🎓 Currently studying HTML, CSS, and JavaScript as part of my Full-Stack Software Developer course at AIT TR Berlin.</p>  
+<p align="center">🎓 Currently learning Java Pro Backend as part of my Full-Stack Software Developer course at AIT TR Berlin.</p>
+<p align="center">🧠 Already learnt: Java Core, HTML, CSS, JavaScript, Git, Docker, SQL, MongoDB, React, TypeScript, Redux.</p>
 <p align="center">💬 Fluent in human languages and working on mastering programming ones.</p>  
 <p align="center">🎧 I code to the sounds of Mark Sandman and low rock vibes.</p>  
-<p align="center">⚡ In my free time, I play music, read books, translate, and enjoying localization jams.</p>
+<p align="center">⚡ In my free time, I play music, read and write books, translate and enjoying localization jams.</p>
 
 <br><br>
 
@@ -35,7 +36,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5555&center=true&vCenter=true&width=600&lines=Cure+for+pain%3F+No.;Cure+for+code%3F+Maybe." alt="Typing quote" />
 </p>
-<p align="center">I believe code, like music, is a language — and I’m here to learn to speak it fluently.</p>
+<p align="center">I believe code, like music, is a language. And I’m here to speak it fluently.</p>
 
 <br><br>
 
@@ -48,6 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
