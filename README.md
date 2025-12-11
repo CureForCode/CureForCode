@@ -68,9 +68,7 @@
 <h2 align="center">📊 My Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CureForCode&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false&order=1" height="200" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=CureForCode&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CureForCode&layout=compact&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
 
 <br><br>
