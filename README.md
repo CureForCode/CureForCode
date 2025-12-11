@@ -68,6 +68,8 @@
 <h2 align="center">📊 My Stats</h2>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CureForCode&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="Most Commit Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CureForCode&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="Repos Per Language">
   <img src="https://streak-stats.demolab.com?user=CureForCode&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
 </div>
 
