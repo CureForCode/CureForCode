@@ -24,8 +24,8 @@
 <div align="center"> <img src="https://github.com/CureForCode/CureForCode/blob/main/assets/artur-somov-glow.svg?raw=true" alt="Artur Somov neon" />
 </div> 
 <p align="center">a linguist-turned-developer with a passion for coding.</p>
-<p align="center">🎓 Currently learning Java Pro Backend as part of my Full-Stack Software Developer course at AIT TR Berlin.</p>
-<p align="center">🧠 Already learnt: Java Core, HTML, CSS, JavaScript, Git, Docker, SQL, MongoDB, React, TypeScript, Redux.</p>
+<p align="center">🎓 Currently attending in IT internship by UpTeam GmbH as part of my Full-Stack Software Developer course at AIT TR Berlin.</p>
+<p align="center">🧠 Already learnt: Java Core, Java Backend, HTML, CSS, Tailwind, JavaScript, Git, Docker, MySQL, PostgreSQL, MongoDB, React, TypeScript, Redux.</p>
 <p align="center">💬 Fluent in human languages and working on mastering programming ones.</p>  
 <p align="center">🎧 I code to the sounds of Mark Sandman and low rock vibes.</p>  
 <p align="center">⚡ In my free time, I play music, read and write books, translate and enjoying localization jams.</p>
