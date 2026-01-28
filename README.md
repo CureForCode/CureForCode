@@ -24,7 +24,8 @@
 <div align="center"> <img src="https://github.com/CureForCode/CureForCode/blob/main/assets/artur-somov-glow.svg?raw=true" alt="Artur Somov neon" />
 </div> 
 <p align="center">a linguist-turned-developer with a passion for coding.</p>
-<p align="center">🎓 Currently attending in IT internship by UpTeam GmbH as part of my Full-Stack Software Developer course at AIT TR Berlin.</p>
+<p align="center">🎓 Currently, I am graduated as a Full Stack Developer at AIT TR Berlin.</p>
+<p align="center">💻 Through theoretical and project work, I have gained hands-on experience building applications, working with databases and collaborating in agile, team-based environments. My technical foundation continues to grow through real-world assignments and personal projects, where I apply best practices in coding, testing and version control.</p>
 <p align="center">🧠 Already learnt: Java Core, Java Backend, HTML, CSS, Tailwind, JavaScript, Git, Docker, MySQL, PostgreSQL, MongoDB, React, TypeScript, Redux.</p>
 <p align="center">💬 Fluent in human languages and working on mastering programming ones.</p>  
 <p align="center">🎧 I code to the sounds of Mark Sandman and low rock vibes.</p>  
@@ -79,7 +80,7 @@
 <h2 align="center">📬 Connect with Me</h2>
 
 <p align="center">Feel free to reach out!</p>
-<p align="center"> 📧 Email: <a href="mailto:artursomov@yahoo.de" target="_blank"> Click here </a> </p>
+<p align="center"> 📧 Email: <a href="mailto:artursomov@proton.me" target="_blank"> Click here </a> </p>
 <p align="center"> 🌐 GitHub: <a href="https://github.com/CureForCode" target="_blank"> CureForCode </a> </p>
 <p align="center"> 💼 LinkedIn: <a href="https://www.linkedin.com/in/artur-somov" target="_blank"> Artur Somov </a> </p>
 <p align="center"> 🎮 itch.io: <a href="https://der-artur.itch.io/" target="_blank"> Der Artur </a> </p>
